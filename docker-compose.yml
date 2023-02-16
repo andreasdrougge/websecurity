@@ -5,7 +5,7 @@ services:
     ports:
       - "3000:3000"
   dvwa:
-    image: vulnerables/web
+    image: vulnerables/web-dvwa
     ports:
       - "80:80"
     environment:
