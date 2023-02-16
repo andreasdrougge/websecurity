@@ -1,6 +1,11 @@
 # Web Security
 New Minds Web Security Course
 
+## SSL
+https://www.ssllabs.com/ssltest/
+
+## Security Headers
+https://securityheaders.com
 
 ## LAB
 ###### Start lab
